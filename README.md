@@ -7,6 +7,15 @@ Rainfall Prediction.
 ## Project Description 
 Rainfall Prediction is the application of science and technology to predict the amount of rainfall over a region. It is important to exactly determine the rainfall for effective use of water resources, crop productivity and pre-planning of water structures.
 ## Algorithm:
+1.Import necessary libraries.
+
+2.Apply the rainfall dataset to algoritm.
+
+3.Read the dataset.
+
+4.Plot the graph and correlation matrix.
+
+5.Study the final output.
 ## Program:
 ```
 from mpl_toolkits.mplot3d import Axes3D
